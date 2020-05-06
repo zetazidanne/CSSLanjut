@@ -1,0 +1,250 @@
+body
+{
+    background-color: #abc748;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 3px;
+    width: 5%;
+}
+
+
+
+.link
+{
+    background-color: papayawhip;
+    color: #ca5116;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.content
+{
+    padding: 30px;
+    
+}
+
+.oa
+{
+    overflow: auto;
+}
+
+
+
+.header {
+    
+    padding: 0 0;
+}
+
+.header-container {
+    background-color: #abc748;
+    padding: 15px 0;
+}
+
+.header-container img
+{
+    
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 5px solid #ffd;
+    margin-left: 30px;
+}
+
+.nav
+{
+    width: auto;
+    float: right;
+    padding: 30px 0;
+    margin-right: 20px;
+}
+
+.nav a
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    color: whitesmoke ;
+    margin: 0 10px;
+}
+
+.nav a:hover
+{
+    color: 4ba5e9;
+}
+
+.name
+{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 35pt;
+    text-align: center;
+    color: #ca5116;
+}
+
+.detail-name {
+    text-align: center;
+    color: #01579b;
+    font-weight: 800;
+    font-size: 18pt;
+    letter-spacing: 3px;
+    font-style: italic;
+}
+
+.background-name
+{
+ 
+    text-align: center;
+    margin-top: -50px;
+}
+
+
+
+.round-image img
+{
+    background-color: #74910e;
+    width: 200px;height: 200px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 3px;
+    border-radius: 50%;
+    
+}
+
+.title
+{
+    color : #4d3e3e;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20pt;
+    margin-top: 16px
+    
+}
+
+.detail-1
+{
+    color : #4d3e3e;
+    max-width: 720px;
+    margin: 16px auto;
+    line-height: 26px;
+}
+
+
+.profile-title
+{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 24pt;
+}
+
+.profile
+{
+    margin-top: 50px;
+    min-height: 160px;
+    max-width: 840px;
+    margin: 50px auto;
+}
+
+.profile p
+{
+    line-height: 2;
+}
+
+.kiri > div
+{
+    margin-left: 220px;
+}
+
+.kanan > div
+{
+    margin-right: 220px;
+}
+
+.profile > img
+{
+    width: 120px;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.kiri > img
+{
+    float: left;
+}
+
+.kanan > img
+{
+    float: right;
+}
+
+.biodata
+{
+    background-color: #ffd16f;
+    style="width:300px;height:30px;border:3;
+}
+
+.org
+{
+    background-color: #15f7e4;
+}
+
+.book
+{
+    background-color: #6bf06b;
+}
+.IT
+{
+    background-color: coral;
+    
+}
+
+
+.footer
+{
+    background-color: #abc748;
+    padding: 20px;
+    
+}
+
+.footer a
+{
+    text-decoration: none;
+}
+
+.footer > div
+{
+    text-align: center;
+}
+
+.navbot a
+{
+    margin: 0 30px;
+    color: #fff;
+    font-size: 14pt;
+}
+
+
+
+.sosmed
+{
+    margin-top: 20px;
+}
+
+.sosmed a
+{
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    margin: 0 50px;
+    font-size: 14pt;
+}
+
+
+
